@@ -1,3 +1,3 @@
 # projects
-Data Structuers 
-Course Registration system
+Data Structures 
+Course Registration system (CRV)
